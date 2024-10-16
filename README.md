@@ -4,8 +4,8 @@ This repository contains the analysis and code for comparing cause of death clas
 
 ## Project Overview
 In this analysis, we explore how the cause of death is classified for individuals with IBD, compared to those without IBD, using two different coding systems:
-- **(1)** International Classification of Disease (ICD) Chapters
-- **(2)** Becker's Leading Cause of Death Coding System
+- **(1)** International Classification of Disease (ICD) Chapters (10th revision)
+- **(2)** Becker's Leading Cause of Death (LCD)
 
 The goal of the analysis is to understand the similarities and differences in how each system captures the primary cause of death and to assess potential implications for research and clinical practice in IBD populations. We assess each coding systems ability to capture overall mortality, premature mortality (<75 years), and non-premature mortality (>=75 years).
 
